@@ -5,26 +5,24 @@ Os projetos foram desenvolvidos durante o curso
 de 
 [HTML: Formação básica](https://www.linkedin.com/learning/html-formacao-basica/quer-criar-seu-proprio-site?autoplay=true).
 
-
-
 <h3>Conteúdos:</h3>
 
-Introdução
+1 - Introdução
 
-O que é o HTML?
+2 - [O que é o HTML?](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/capitulo_1)
 
-A estrutura básica do HTML
+3 - [A estrutura básica do HTML]()
 
-Formatando o conteúdo
+4 - [Formatando o conteúdo]()
 
-Criando links
+5 - [Criando links]()
 
-Criando listas
+6 - [Criando listas]()
 
-Criando tabelas
+7 - [Criando tabelas]()
 
-Controlando estilos
+8 - [Controlando estilos]
 
-Scripting básico
+9 - [Scripting básico]
 
-Conclusão
+10 - Conclusão
