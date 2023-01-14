@@ -1,4 +1,4 @@
-# linkedin-learning-html-formacao-basica
+# Linkedin Learning curso de HTML: Formação básica
 
 Os projetos foram desenvolvidos durante o curso 
 [LinkedIn Learning](https://www.linkedin.com/learning/) 
