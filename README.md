@@ -7,11 +7,11 @@ de
 
 <h3>Conteúdos:</h3>
 
-1 - Introdução
+1 - [Introdução](https://pt.wikipedia.org/wiki/HTML)
 
-2 - [O que é o HTML?](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/capitulo_1)
+2 - [O que é o HTML?](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_1)
 
-3 - [A estrutura básica do HTML]()
+3 - [A estrutura básica do HTML](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_2)
 
 4 - [Formatando o conteúdo]()
 
