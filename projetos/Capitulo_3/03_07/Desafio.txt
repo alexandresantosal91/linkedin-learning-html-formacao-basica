@@ -1,0 +1,58 @@
+Instruções para o desafio do Capítulo 03: Formatando o Conteúdo 
+
+Bem-vindo ao seu primeiro desafio! 
+
+Nos desafios deste curso, vamos dar os toques finais necessários para completar o site de referência deste curso. Não vamos construir o site do zero, mas sim finalizar várias partes do site que tem itens faltando. 
+
+O objetivo é reforçar e colocar em prática o que você aprendeu.
+
+Neste desafio, vamos planejar e implementar uma estratégia de formatação para o site. 
+
+Veja abaixo as tarefas que precisamos realizar:
+
+1. Estratégia de cabeçalho
+a) Página: todas as páginas
+b) Leia e explore o conteúdo de cada uma das páginas com atenção: intro.html, links.html, proximosPassos.html, referencias.html, estrutura.html e sintaxe.html
+c) Determine qual conteúdo deve ser representado como títulos ou cabeçalhos. Concentre-se em ser consistente em como você atribui títulos para cada página.
+d) Percorra cada uma das páginas e formate os títulos com base na sua estratégia.
+
+2. Formatar parágrafos
+a) Páginas: intro.html
+b) Determine qual conteúdo deve ser representado por parágrafos e, em seguida, formate-os adequadamente.
+
+3. Formatar parágrafos 2
+a) Página: proximosPassos.html
+b) Na seção “Aprendendo Web Design”, há quatro recomendações. Cada recomendação tem uma frase inicial seguida de um texto descritivo. Usando parágrafos, formate esse texto para que a frase inicial apareça em sua própria linha.
+
+4. Determinação da ênfase
+a) Página: proximosPassos.html
+b) Examine as quatro dicas na seção "Aprendendo Web Design". 
+c) Determine como melhor enfatizar a primeira linha em cada parágrafo. Pense em maneiras de isolar essa linha ou enfatizá-la de maneira que sua importância seja evidenciada perante o restante do parágrafo.
+d) No último parágrafo de aviso (“Quebre as coisas!”), exiba as citações em itálico. 
+e) No mesmo parágrafo, enfatize a última linha "Sempre se desafie." para que sua importância seja indicada.
+d. Na lista de recursos de web design, verifique se todos os itens da lista de nível superior aparecem em negrito.
+
+5. Exibindo caracteres especiais
+a) Página: referencias.html
+b) Role para baixo até a tabela que exibe entidades comuns de caractere nomeado.
+c) Visualize a página em um browser e, usando a tabela como referência, adicione a entidade apropriada à primeira célula da tabela para fornecer um exemplo desse símbolo.
+d) Na coluna de Entidades, corrija os símbolos que não mostram a sintaxe apropriada. 
+
+6. Inserindo Imagens
+a) Página: intro.html
+b) Examine a imagem no topo da página. Observe a classe “flowDireita”, que é usada pelo CSS para controlar o estilo. Você aprenderá mais sobre isso no capítulo sobre CSS.
+c) Role para baixo até localizar o parágrafo “Logo após a publicação da especificação 1.0,…”. No início desse parágrafo, insira uma imagem que:
+   i. Aponta para o 200px-W3C_icon.png no diretório _images
+   ii. Usa o texto alternativo “logo W3C”
+   iii. Passa o valor de 200 para largura e 136 para altura
+   iv. Aplica a classe de "flowEsquerda"
+
+Quando terminar, abra os mesmos arquivos no diretório "Final" e compare seus resultados com os meus. 
+
+Eles combinam? Houve momentos em que você não usou a mesma estratégia que eu usei para criar cabeçalhos, criar listas ou enfatizar o texto? 
+
+Muitas vezes, essas decisões são subjetivas e não existe necessariamente uma resposta "certa". 
+
+O importante é que você tenha uma boa razão para ter tomado a decisão que tomou e usou HTML semântico válido. 
+
+Percorra os arquivos e compare sua formatação com a minha. É consistente? A formatação é o que você esperava ou você faria alterações?
