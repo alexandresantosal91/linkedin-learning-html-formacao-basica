@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="" />
+    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_3/formatando-o-conteudo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_01/Base/formatacao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_01/Final/formatacao.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_01/formatacao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_02/Base/headings.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_02/Base/headings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_04/Base/caracteres.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_04/Base/caracteres.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_06/Base/imagens.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_06/Base/imagens.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Desafio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Desafio.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/projetos/Capitulo_3/03_02/Base/headings.html" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,6 +57,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projetos/Capitulo_3/03_01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,11 +77,23 @@
       <workItem from="1673794152235" duration="480000" />
       <workItem from="1673798539960" duration="25000" />
       <workItem from="1673800694153" duration="2797000" />
+      <workItem from="1673889419612" duration="5051000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

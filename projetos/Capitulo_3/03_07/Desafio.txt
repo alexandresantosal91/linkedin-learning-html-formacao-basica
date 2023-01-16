@@ -2,7 +2,8 @@ Instruções para o desafio do Capítulo 03: Formatando o Conteúdo
 
 Bem-vindo ao seu primeiro desafio! 
 
-Nos desafios deste curso, vamos dar os toques finais necessários para completar o site de referência deste curso. Não vamos construir o site do zero, mas sim finalizar várias partes do site que tem itens faltando. 
+Nos desafios deste curso, vamos dar os toques finais necessários para completar o site de referência deste curso.
+Não vamos construir o site do zero, mas sim finalizar várias partes do site que tem itens faltando.
 
 O objetivo é reforçar e colocar em prática o que você aprendeu.
 
