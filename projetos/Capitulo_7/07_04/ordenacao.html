@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Ordenação de regras</title>
+<style>
+    body {
+        color: red;
+    }
+    p {
+        color: blue;
+        font-style: italic;
+    }
+    .meuEstilo {
+        color: green;
+        font-style: normal;
+        font-size: 1.5em;
+    }
+    #estiloLaranja {
+        color: orange;
+    }
+    .textoCentrado {
+        text-align: center;
+    }
+    article {
+        font-size: 3em;
+    }
+    article p {
+        color: black;
+        font-style: normal;
+    }
+</style>
+</head>
+<body>
+    <h1>Ordenação de regras</h1>
+    
+    <p>Texto com p global</p>
+
+    <p style="color:purple;">Texto com p global + estilo em linha</p>
+    
+    <p class="meuEstilo">Texto com p global + classe</p>
+
+    <p class="meuEstilo" id="estiloLaranja">Texto com p global + classe + id</p>
+    
+    <p class="meuEstilo" id="estiloLaranja" style="color:purple;">Texto com p global + classe + id + em linha</p>
+    
+    <p class="meuEstilo textoCentrado">Texto com dois estilos</p>
+
+    <article>
+        <h1>Cabecalho do artigo em h1</h1>
+        <p>Texto dentro de um artigo</p>
+    </article>
+</body>
+</html>

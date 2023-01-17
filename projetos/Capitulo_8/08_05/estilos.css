@@ -1,0 +1,89 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #777;
+  color: #313235;
+}
+
+body {
+  width: 90%;
+  margin: 20px auto;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 1em 50px;
+  background: white;
+  border-bottom: 20px solid #E68523;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 .4em;
+  color: white;
+  background-color: rgb(0, 119, 181);
+  padding: 5px 10px;
+}
+
+h2 {
+  margin-top: 0px;
+  text-decoration: underline;
+}
+
+button {
+  background-color: #E68523;
+  transition-duration: 0.4s;
+  border-radius: 1em;
+  font-size: 1em;
+  padding: 10px 20px;
+  color: white;
+  border: 1px solid black;
+  outline: none;
+  display: block;
+  margin: auto;
+}
+
+button:hover {
+  background-color: #0077B5; 
+  color: white;
+}
+
+.exercicios {
+  border: 2px dashed #0077B5;
+  border-radius: 2em 2em 0em 0em;
+  background-color: #CDCDCD;
+  width: 90%;
+  display: inline-block;
+  margin: 10pt;
+  padding: 10pt;
+  text-align: center;
+}
+
+.textoClicavel:hover {
+  color: red;
+}
+
+#quadrado {
+  background-image: linear-gradient(to left, red , yellow);
+  border: 1pt solid black;
+  border-radius: 1.2em;
+  box-shadow: 5px 5px 5px black;
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+  margin: 0 auto;
+}
+
+#farol { 
+  background-color: white;
+  border-radius: 100%;
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+}
+
+input {
+  font: inherit;
+}
+input:focus {
+  background-color: black;
+  color: white;
+}

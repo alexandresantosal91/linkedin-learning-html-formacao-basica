@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>HTML e JavaScript</title>
+
+    <link rel="stylesheet" type="text/css" href="estilos.css"></link>
+
+    <script src="scripts.js"></script>    
+
+</head>
+
+<body>
+    <h1>HTML e JavaScript</h1>
+
+    <div class="exercicios">
+        <h2>Chamar funções</h2>
+        <p class="textoClicavel" id="demoFuncao" onclick="minhaFuncao()">Clique aqui para exibir o resultado de 4 + 5</p>
+    </div>
+
+    <div class="exercicios">
+        <h2>Pegar valores do documento</h2>
+        <p>Primeiro número: <input type="number" id="primeiroNumero" value="10" /></p>
+        <p>Segundo número: <input type="number" id="segundoNumero" value="20" /></p>
+        <button onclick="somarDoisNumeros()">Clique aqui para exibir o resultado</button>
+        <p class="textoClicavel" id="resultado"></p>        
+    </div>
+     
+</body>
+
+</html>

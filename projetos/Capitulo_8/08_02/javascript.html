@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+        <meta charset="utf-8">
+        <title>HTML e JavaScript</title>
+        <link rel="stylesheet" type="text/css" href="estilos.css"></link>
+</head>
+
+<body>
+        <h1>HTML e JavaScript</h1>
+
+        <div class="exercicios">
+                <h2>Exibir um alerta</h2>
+                <button onclick="alert('Olá')">Clique aqui!</button>
+        </div>
+
+        <div class="exercicios">
+                <h2>Alterar o HTML</h2>
+                <button onclick="document.getElementById('demoData').innerHTML=Date();">Clique aqui!</button>
+                <p id="demoData"></p>
+        </div>
+
+        <div class="exercicios">
+                <h2>Mudar o atributo de um elemento</h2>
+                <button style="display: inline" onclick="document.getElementById('lampada').src='imagens/lampadaLigada.png'">Ligar</button>
+                <img id="lampada" src="imagens/lampadaDesligada.png" />
+                <button style="display: inline" onclick="document.getElementById('lampada').src='imagens/lampadaDesligada.png'">Desligar</button>
+        </div>
+
+        <div class="exercicios">
+                <h2>Mudar estilo de CSS</h2>
+                <button type="button" onclick="document.getElementById('demoTexto').style.fontSize='1.5em'">Clique para aumentar o tamanho do texto!</button>
+                <p id="demoTexto">Texto que muda de tamanho.</p>
+        </div>
+</body>
+</html>
