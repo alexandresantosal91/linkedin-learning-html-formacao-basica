@@ -1,0 +1,19 @@
+Instruções para o desafio do Capítulo 05: Criando Listas
+
+Neste desafio, vamos criar listas dentro do nosso site. 
+
+Veja abaixo as tarefas que precisamos realizar:
+
+1. Lista não ordenada
+a) Página: intro.html
+b) No topo da página, temos os links para as diferentes páginas do nosso site
+c) Transforme esses links em uma lista não ordenada 
+
+2. Lista ordenada
+a) Página: intro.html
+b) No final da página, temos a "Linha do tempo HTML"
+c) Transforme essas linhas em uma lista ordenada
+
+3. Lista de definição
+a) Página: referencias.html
+b) Transforme os "Termos HTML" em listas de definição

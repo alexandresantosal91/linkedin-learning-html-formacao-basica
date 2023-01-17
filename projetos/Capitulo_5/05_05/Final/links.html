@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Creating Links</title>
+<link href="css/estilos.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>HTML Formação Básica </h1>
+<h2>Criando Links</h2>
+<ul>
+  <li><a href="intro.html" title="Introdução ao HTML">Introdução ao HTML</a></li>
+  <li><a href="sintaxe.html" title="Sintaxe do HTML">Sintaxe do HTML</a></li>
+  <li><a href="links.html" title="Criando links">Criando links</a></li>
+  <li><a href="referencias.html" title="Referências">Referências</a></li>
+  <li><a href="proximosPassos.html" title="Próximos Passos">Próximos Passos</a></li>
+</ul>
+<p>Talvez o aspecto mais importante do HTML seja a capacidade de vincular um documento a outro. Este é o conceito básico subjacente à web e sem essa funcionalidade a World Wide Web não existiria. </p>
+<h3>Sintaxe de link</h3>
+<p>Criar links é relativamente simples, e a sintaxe fornece muita flexibilidade em onde e como os links são aplicados. Para criar um link, você usará o elemento âncora (&lang; a &rang;) para agrupar o conteúdo que deseja converter em um link. </p>
+<pre>&lt;a href=&quot;sintaxe.html&quot; title=&quot;Aprenda mais sobre a sintaxedo HTML&quot;&gt;Sintaxe do HTML&lt;/a&gt;</pre>
+<p>Aqui, o texto &quot;Sintaxe HTML&quot; seria exibido como um link clicável. O atributo <b>href</b> diz ao navegador como <em>resolver</em> o link; é aí que o usuário deve ser direcionado quando o link é clicado. O atributo de <b>título</b> opcional fornece uma descrição do link e é útil para tornar o link mais acessível.</p>
+
+<h3>Tipos de ligação</h3>
+
+<p> Existem três tipos básicos de links: <b> absoluto </b>, <b> relativo à raiz do site </b> e <b> documento relativo </b>. Cada um desses tipos se refere ao valor do atributo <b> href </b>, que determina como o navegador deve resolver um link depois que o link for clicado. </p>
+<h4>Links absolutos</h4>
+<p> Esses links contêm o URL inteiro necessário para resolver um link, incluindo o protocolo. Isso geralmente é feito para links externos, que são links para páginas fora do site atual. Aqui está um exemplo de um link absoluto: </p>
+<pre> &lt;a href=&quot;http://www.linkedin.com/learning&quot; title=&quot;Você pode aprender com o LinkedIn Learning!&quot;&gt;LinkedIn Learning&lt;/a&gt;</pre>
+<h4>Links relativos ao documento</h4>
+<p> Esses links são comumente usados ​​para navegar internamente em um site. Por exemplo, se você estivesse na página inicial de seu site e quisesse navegar até a página de contato, basta fornecer o caminho da página inicial para a página de contato para o valor de <b> href </b>. Isso exige que você entenda a estrutura de diretórios do seu site e quando você precisa navegar para dentro ou fora das pastas. Tome o seguinte exemplo: </p>
+<pre> &lt;a href=&quot;contato.html&quot; title=&quot;nossa página de contato&quot;&gt;Entre em contato&lt;/a&gt; </pre>
+<p> Este link pressupõe que a página de contato e a página atual estejam no mesmo diretório. Se a página de contato estivesse localizada em um diretório abaixo da página atual, o link ficaria assim: </p>
+<pre> &lt;a href=&quot;recursos/contato.html&quot; title=&quot;nossa página de contato&quot;&gt;Entre em contato&lt;/a&gt; </pre>
+<p> Isso pressupõe que a página de contato esteja em um diretório intitulado &quot; resources &quot; e é um nível abaixo da página atual. Para mover <b> para fora </b> de um diretório, você precede a página com o &quot;../&quot; personagens. Nesse caso do nosso link de contato, ficaria assim: </p>
+<pre> &lt;a href=&quot;../contact.html&quot; title=&quot;nossa página de contato&quot;&gt;Entre em contato&lt;/a&gt; </pre>
+<p> Esse link subirá do diretório atual e localizará a página contact.html no diretório pai. Você pode usar tantos desses &quot;../&quot; como você precisa subir e resolver adequadamente o link. </p>
+<h4>Links Relativos Site-Root</h4>
+<p> São semelhantes aos links relativos ao documento, mas começam na pasta raiz do site e depois passam pelos diretórios até a página desejada. Ao contrário dos links relativos a documentos, que dependem da localização atual da página para resolver adequadamente os links, os links relativos à raiz do site são gravados da mesma maneira, independentemente da localização atual em seu site. Todos os links são precedidos por uma barra (/) que se refere ao diretório raiz. Aqui está um exemplo: </p>
+<pre> &lt;a href=&quot;/contato.htm&quot; title=&quot;nossa página de contato&quot;&gt;Entre em contato&lt;/a&gt; </pre>
+<p> Neste exemplo, o link é resolvido indo diretamente para a pasta raiz do site e encontrando a página de contato. Se a página de contato estivesse localizada mais profundamente no site, o link ficaria assim: </p>
+<pre> &lt;a href=&quot;/resources/contact.htm&quot; title=&quot;nossa página de contato&quot;&gt;Entre em contato&lt;/a&gt; </pre>
+<h4>Identificadores de fragmentos</h4>
+<p> Ocasionalmente, você deseja que um link se refira a um local específico em uma página. Isso pode ser feito usando um tipo especial de link chamado identificador de fragmento. Esses links apontam para elementos com um atributo <b> ID </b> específico. Digamos, por exemplo, que você tenha uma longa lista de <b> FAQs </b> em uma página organizada por categorias e tenha um título no topo de cada categoria. Se você atribuísse a cada título um atributo de ID, poderia usar esses IDs para criar links que saltassem para categorias específicas. Por exemplo, você poderia formatar o título Perguntas frequentes sobre campismo assim: </p>
+<pre>&lt;h2 id=&quot;acampamento&quot;&gt;Acampamento&lt;/h2&gt;</pre>
+<p> Em outro lugar da página, você pode vincular a essa seção criando o seguinte link: </p>
+<pre>&lt;a href=&quot;# camp&quot;&gt;Saiba mais sobre o acampamento&lt;/a&gt;</pre>
+<p> Observe o símbolo de hash (#) antes do valor de ID. Isso diz ao navegador para procurar um elemento com o valor de ID que se segue. Você também pode vincular a identificadores de fragmento em páginas externas. Basta anexar o identificador de fragmento ao URL e o link saltará não apenas para essa página, mas também para essa seção específica. </p>
+<pre>&lt;a href=&quot;faq.html#camp&quot;&gt;Leia as nossas FAQs sobre acampamentos.&lt;/a&gt;</pre>
+<p>&copy;<a href="https://linkedin.com" alt="Link para o LinkedIn">linkedin.com</a> | me siga no LinkedIn <a href="https://linkedin.com/in/lucaslongo">linkedin.com/in/lucaslongo</a> </p>
+</body>
+</html>
