@@ -13,13 +13,13 @@ de
 
 3 - [A estrutura básica do HTML](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_2)
 
-4 - [Formatando o conteúdo]()
+4 - [Formatando o conteúdo](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_4)
 
-5 - [Criando links]()
+5 - [Criando links]
 
-6 — [Criando listas]()
+6 — [Criando listas]
 
-7 - [Criando tabelas]()
+7 - [Criando tabelas]
 
 8 - [Controlando estilos]
 
