@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/estrutura.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/estrutura.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/links.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/proximosPassos.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/proximosPassos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/referencias.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/referencias.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/sintaxe.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_3/03_07/Base/sintaxe.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +77,7 @@
       <workItem from="1673800694153" duration="2797000" />
       <workItem from="1673889419612" duration="5667000" />
       <workItem from="1673922994232" duration="2956000" />
+      <workItem from="1673965060055" duration="1041000" />
     </task>
     <servers />
   </component>
