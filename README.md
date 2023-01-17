@@ -15,15 +15,13 @@ Os projetos foram desenvolvidos durante o curso
 
 5 - [Criando links](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_5)
 
-6 - [Criando listas]
+6 - [Criando tabelas](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_6)
 
-7 - [Criando tabelas]
+7 - [Controlando estilos]()
 
-8 - [Controlando estilos]
+8 - [Scripting básico]()
 
-9 - [Scripting básico]
-
-10 - Conclusão
+9 - Conclusão
 
 <body>
     <h3>Fontes de pesquisas:</h3>
