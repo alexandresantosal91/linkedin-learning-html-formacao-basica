@@ -28,7 +28,7 @@ de
 10 — Conclusão
 
 <body>
-    <h3>Fontes de pesquisas estudos</h3>
+    <h3>Fontes de pesquisas:</h3>
     <p><a href="https://www.w3c.br">W3C Brasil</a></p>
     <p><a href="https://whatwg.org">Welcome to the WHATWG community</a></p>
     <p><a href="https://webplatform.github.io">Web Plant Form</a></p>
