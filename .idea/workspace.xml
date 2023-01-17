@@ -4,7 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="" />
+    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Begin/info/extras/recursos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Begin/info/sobre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Begin/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Begin/mesmo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Final/imagens/caliAndandoNaPraia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Final/info/extras/recursos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Final/info/sobre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Final/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_02/Final/mesmo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_03/Base/externo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_03/Final/externo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_04/Base/download.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_04/Base/recursos/Sintaxe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_04/Base/recursos/Sintaxe.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_04/Final/download.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_04/Final/recursos/Sintaxe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_04/Final/recursos/Sintaxe.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_05/Base/destino.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_05/Base/fragmentos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_05/Final/destino.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_05/Final/fragmentos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/downloads/Sintaxe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/estrutura.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/imagens/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/imagens/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/proximosPassos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/referencias.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Base/sintaxe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_06/Desafio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/downloads/Sintaxe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/estrutura.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/imagens/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/imagens/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/proximosPassos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/referencias.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_4/04_07/Final/sintaxe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +64,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dfd188b4-c5fe-4507-affa-696b36f20e59" />
+        <option name="url" value="https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/projetos/Capitulo_3/03_02/Base/headings.html" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -34,20 +91,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/projetos/Capitulo_3/03_01" />
@@ -71,6 +129,7 @@
       <workItem from="1673889419612" duration="5667000" />
       <workItem from="1673922994232" duration="2956000" />
       <workItem from="1673965060055" duration="1073000" />
+      <workItem from="1673973430196" duration="844000" />
     </task>
     <servers />
   </component>

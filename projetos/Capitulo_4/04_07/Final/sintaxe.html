@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Sintaxe do HTML</title>
+<link href="css/estilos.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>HTML Formação Básica</h1> 
+<h2>Sintaxe do HTML</h2>
+<ul>
+  <li><a href="intro.html" title="Introdução ao HTML">Introdução ao HTML</a></li>
+  <li><a href="sintaxe.html" title="Sintaxe do HTML">Sintaxe do HTML</a></li>
+  <li><a href="links.html" title="Criando links">Criando links</a></li>
+  <li><a href="referencias.html" title="Referências">Referências</a></li>
+  <li><a href="proximosPassos.html" title="Próximos Passos">Próximos Passos</a></li>
+</ul>
+<p> Como o HTML é frequentemente a primeira experiência de pessoas com codificação, pode haver uma quantidade razoável de apreensão sobre como aprendê-lo. Felizmente, a sintaxe HTML é relativamente simples e fácil de aprender. A maioria das pessoas pode aprender os fundamentos do HTML e começar a codificá-lo no mesmo dia. </p>
+  <h3>Uma linguagem de marcação</h3>
+  <p> HTML é uma linguagem de marcação. Isso significa que o conteúdo da página é &quot;marcado &quot;por tags que identificam o conteúdo dentro delas. Um parágrafo, por exemplo, pode ser identificado colocando o &quot;&lt;p&gt;&quot; tag de abertura antes do conteúdo dos parágrafos e o &quot;&lt;/p&gt;&quot; tag de fechamento no final de um parágrafo. O parágrafo completo ficaria assim: </p>
+  <pre> <code> &lt;p&gt;Este é um parágrafo &lt;/p&gt;</code> </pre>
+  <p> As tags consistem em um colchete angular esquerdo (&lt;) seguido por um caractere ou caracteres que identificam a tag (o &quot;p &quot; para parágrafo) e um colchete de ângulo reto de fechamento (&gt;). As tags de fechamento de um elemento são exatamente iguais a uma tag de abertura, exceto que uma barra (/) irá preceder os caracteres de tags. Veja uma lista com alguns do caracteres mais usados no HTML. <a href="referencias.html#caracteres" alt="Link para Entidades de Caracteres Nomeados Comuns">Veja uma lista com alguns do caracteres mais usados no HTML.</a><br>
+  Embora a maioria dos elementos exija uma tag de abertura e fechamento, a tag de fechamento é opcional para alguns elementos e não é obrigatória para os outros. Embora existam exceções à regra, na maior parte, qualquer elemento que contenha conteúdo dentro das tags de abertura e fechamento também requer uma tag de fechamento. </p>
+  <h3>Estrutura básica do documento</h3>
+  <p> O núcleo de todos os documentos HTML gira em torno de três tags básicas. Primeiro, uma tag html (&lt;html&gt;) é necessária para identificar o documento como um arquivo HTML. Diretamente dentro da tag html, você encontrará o elemento head (&lt;head&gt;). O chefe de um documento é onde você encontrará os metadados do documento, o título do documento e links para recursos externos, como folhas de estilo e scripts. Uma boa maneira de pensar sobre a cabeça do documento é que ele não contém nenhum dos conteúdos <em> visuais </em> da página, mas contém informações sobre o documento e os recursos que ajudam a fazer a página funcionar. Diretamente após a cabeça do documento, você encontrará seu corpo (&lt;body&gt;). O corpo é onde você encontrará todo o conteúdo real da página. Cabeçalhos, parágrafos, imagens, listas, tabelas e outros conteúdos serão localizados aqui. Basicamente, um arquivo HTML ficaria assim: </p>
+  <pre> <code>
+  &lt;html&gt;
+       &lt;cabeça&gt;
+       &lt;/head&gt;
+       &lt;body&gt;
+       &lt;/body&gt;
+  &lt;/html&gt;
+    </code> </pre>
+  <h3>DOCTYPES</h3>
+  <p> Se você já olhou para páginas HTML, provavelmente notou uma tag longa e um pouco intimidante pouco antes da tag HTML de abertura. Esta é uma declaração doctype e é um componente muito importante, mas muitas vezes incompreendido de páginas HTML. Essencialmente, ele diz ao agente usuário analisar sua página qual versão de HTML (ou XHTML) esperar, para que ele saiba quais regras de sintaxe usar ao renderizar sua página. O tipo de documento que você usa deve ser baseado na versão do HTML que você está usando para criar a página. Embora tudo soe bem na teoria, na realidade, na maioria das vezes, um tipo de documento está simplesmente acionando o "modo-padrão". em vez do &quot;modo quirks &quot;(com base em navegadores mais antigos não-padrão maneira de renderizar páginas). Apenas por esse motivo, todos os documentos HTML devem ser precedidos por uma declaração de tipo de documento. Para mais informações sobre doctypes, e a história por trás deles, confira a excelente seção de Mark Pilgrim sobre doctypes do seu livro <em> Dive Into HTML5 </em>. Aqui estão alguns dos tipos de documentos HTML mais comuns: </p>
+  <h4>HTML 4.0 transitório</h4>
+  <pre> <code> &lt;!DOCTYPE HTML PUBLIC &quot;- // W3C // DTD HTML 4.01 Transitional // EN &quot;&quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;</code> </pre>
+  <h4>XHTML 1.0 Transitional</h4>
+  <pre> <code> &lt;!DOCTYPE html PUBLIC - // W3C // DTD XHTML 1.0 Transicional // EN &quot;"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;</code> </pre>
+  <h4>HTML5</h4>
+  <pre> <code> &lt;!DOCTYPE HTML&gt;</code></pre>
+  <h3>Atributos do elemento</h3>
+  <p> Alguns elementos podem ser aprimorados por meio do uso de atributos. Atributos permitem que você forneça mais informações ou funcionalidades adicionais ao conteúdo. Atributos são adicionados à tag de abertura de um elemento e consistem em duas partes, o <strong> nome </strong> e o <strong> valor </strong>. Embora a sintaxe varie com base na versão do HTML que você está usando, é prática padrão colocar os valores entre aspas. </p>
+  <pre> <code> &lt;h1 class = &quot;título&quot;&gt;Título principal do artigo&lt;/h1&gt;</code> </pre>
+  <h3>Elementos substituídos</h3>
+  <p> Alguns elementos HTML representam o conteúdo que é substituído por um recurso externo, como uma imagem, um controle de formulário ou um arquivo de vídeo. Esses elementos são referidos como <strong> elementos substituídos </strong> e geralmente têm uma largura ou altura predeterminada. Em alguns casos, os elementos terão atributos que informam ao navegador onde encontrar um recurso externo, como uma imagem ou um vídeo. </p>
+
+    <pre> <code> &lt;img src=&quot;photo.jpg&quot; alt=&quot;minha foto incrível&quot;&gt;&nbsp;</code> </pre>
+      <h3>Estrutura de código</h3>
+      <p> Documentos HTML criam estrutura ao aninhar elementos dentro um do outro. Você pode agrupar uma seção do conteúdo da página agrupando-os em um &lt;div&gt;ou &lt;seção&gt;elemento, por exemplo. Ao aninhar uma tag em outra, você deve primeiro fechar todos os elementos filhos antes de fechar qualquer elemento pai. <br>
+      Essa sintaxe, por exemplo, seria incorreta : </p>
+      <pre class = "errado"> <code> &lt;p&gt;Você deve fechar todas as tags aninhadas &lt;strong&gt;primeiro!&lt;/p&gt;&lt;/strong&gt;</code> </pre>
+      <p> Em vez disso, a sintaxe <em>correta</em> seria: </p>
+      <pre class = "correto"> <code> &lt;p&gt;Você deve fechar todas as tags aninhadas &lt;strong&gt;primeiro!&lt;/strong&gt;&lt;/p&gt;</code> </pre>
+      <p> O HTML também possui regras específicas sobre quais elementos podem ser aninhados em outros elementos. Um parágrafo (&lt;p&gt;) por exemplo, não pode ser aninhado dentro de um título (&lt;h1&gt;). &nbsp;Na maior parte, essas regras são baseadas no tipo de conteúdo que a tag representa. O HTML 4 tem dois tipos básicos de conteúdo: <strong> block </strong> e <strong> inline </strong>. Elementos de nível de bloco normalmente ocupam sua própria linha em um documento, geralmente empilhando um em cima do outro na ordem em que aparecem em seu código. Elementos de nível inline podem aparecer dentro do fluxo de elementos de nível de bloco. Elementos como forte (&lt;strong&gt;), negrito (&lt;b&gt;), ênfase (&lt;em&gt;), itálico (&lt;i&gt;) e span (&lt;span&gt;) são sempre encontrados dentro de elementos de nível de bloco .<br>
+      O HTML5, por outro lado, expande o conceito de tipos de conteúdo para sete categorias diferentes de conteúdo, com alguns elementos pertencentes a várias categorias. Isso substitui o conceito de elementos de nível de bloco e inline e adiciona algumas regras adicionais de sintaxe de aninhamento. Na maioria das vezes, as regras sobre os elementos de aninhamento fazem sentido e são fáceis de entender. Você deve estar preparado, no entanto, para que leve algum tempo antes de compreender todas as regras que envolvem os elementos de aninhamento. Uma maneira de garantir que seu código seja estruturado corretamente é validar seu código por meio de um serviço como o serviço de Validação de marcação do W3C. </p>
+      <h3>Comentando código</h3>
+      <p> Geralmente, é útil deixar anotações para você ou para outros desenvolvedores em seu código. Talvez você queira se lembrar do que um determinado script faz, ou lembrar um colega de trabalho de como estruturar adequadamente um conteúdo específico. Para fazer isso, você usará comentários. Os comentários devem aparecer em sua própria linha e geralmente aparecem diretamente antes ou depois do código a que se referem. Os comentários começam com um colchete angular esquerdo, um ponto de exclamação e dois hífens (&lt;! -) e terminam com dois hífens seguidos por um colchete angular (-&gt;). </p>
+      <p>Sintaxe de comentário:</p>
+      <pre> <code> &lt;!-- Este é um comentário --&gt;</code> </pre>
+      <h3>Usando caracteres especiais</h3>
+      <p> Certos caracteres são reservados em HTML, o que significa que você não deve usá-los fora de sua finalidade específica. Os colchetes angulares, por exemplo, são reservados para tags, e usá-los em qualquer lugar fora de uma tag pode causar erros de análise em navegadores. No entanto, você ainda pode usar esses caracteres reservados e outros caracteres especiais ou símbolos usando o que é conhecido como <strong> entidade de caractere nomeado </strong>. Esses códigos especiais dizem ao agente do usuário para substituir o código da entidade por um caractere específico. Essas entidades começam com um "e" comercial (&amp;) seguido pelo nome da entidade e terminam com um ponto e vírgula (;). Para exibir um e comercial, por exemplo, você digitaria <strong> &amp;amp;</strong> no lugar do "e" comercial real. Você pode encontrar listas de entidade de caractere nomeadas dentro das especificações HTML, embora o formato para elas possa ser um pouco difícil de ler. Você também pode encontrar uma lista útil de entidades de caracteres na página <a href="reference.htm#named"> Referência HTML </a> e uma lista mais abrangente na Wikipedia. </p>
+      <p>&copy;<a href="https://linkedin.com" alt="Link para o LinkedIn">linkedin.com</a> | me siga no LinkedIn <a href="https://linkedin.com/in/lucaslongo">linkedin.com/in/lucaslongo</a> </p></body>
+</html>

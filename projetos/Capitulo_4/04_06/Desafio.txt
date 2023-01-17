@@ -1,0 +1,38 @@
+Instruções para o desafio do Capítulo 04: Criando Links
+
+Neste desafio, vamos criar links dentro do nosso site. 
+
+Veja abaixo as tarefas que precisamos realizar:
+
+1. Links externos
+a) Páginas: todas
+b) Em todas as ocorrências da palavra LinkedIn, adicione um link para "https://linkedin.com" 
+c) Adicione o alt = "Link para o LinkedIn"
+d) Faça o mesmo com o texto linkedin.com/in/lucaslongo
+
+2. Links internos usando âncoras
+a) Página: intro.html
+b) No final da página, adicione um parâmetro "id" no cabeçalho do "Linha do tempo HTML"
+c) No final do primeiro parágrafo da sessão "História", adicione um link para a "Linha do tempo HTML" no texto "Veja a linha do tempo HTML abaixo."
+d) Coloque o alt text = "Link para a Linha do tempo HTML"
+
+3. Link para outra página + âncora
+a) Página: referencias.html
+b) No final da página, adicione um parâmetro "id" no cabeçalho do "Entidades de Caracteres Nomeados Comuns"
+c) Página: sintaxe.html
+c) Encontre o texto "Veja uma lista com alguns do caracteres mais usados no HTML." e adicione um link para a âncora que você criou na página referencias.html
+d) Coloque o alt text = "Link para Entidades de Caracteres Nomeados Comuns"
+
+4. Links 
+a) Página: intro.html
+b) Encontre a palavra "CERN" e adicione um link para o site oficial do CERN: https://home.cern/ 
+c) Não se esqueça de colocar um texto alternativo dizendo "Link para o site do CERN"
+d) Faça com que esse link abra em uma nova janela ou aba usando o atributo _blank
+
+5. Downloads
+a) Página: intro.html
+b) Encontre a frase "Baixe o PDF com mais conteúdo sobre a sintaxe do HTML."
+c) Crie um link para o PDF no diretório "downloads" chamado "Sintaxe.pdf"
+d) Adicione o alt text "Faça o download do Sintaxe.pdf"
+e) Force o link para ser um download em vez de um link simples usando a palavra "download" 
+
