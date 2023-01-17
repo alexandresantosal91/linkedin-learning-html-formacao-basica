@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="" />
+    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_5/05_01/Base/listanaoordenada.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_5/05_01/Base/listanaoordenada.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_5/05_03/Base/listadescricao.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_5/05_03/Base/listadescricao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_5/05_04/Base/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_5/05_04/Base/intro.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +93,7 @@
       <workItem from="1673922994232" duration="2956000" />
       <workItem from="1673965060055" duration="1073000" />
       <workItem from="1673973430196" duration="844000" />
-      <workItem from="1673974308452" duration="5546000" />
+      <workItem from="1673974308452" duration="8899000" />
     </task>
     <servers />
   </component>

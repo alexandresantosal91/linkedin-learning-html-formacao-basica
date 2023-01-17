@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+  <meta charset="utf-8">
+  <title>Criando tabelas</title>
+  <style>
+
+  </style>
+  </head>
+  <body>
+    <h1>HTML Formação Básica</h1>
+    <h2>Desafio: criando tabelas</h2>
+      
+    <h3>1. Tabela simples</h3>
+    <table border width="100%" cellpadding="10px">
+        <tr>
+          <th>Bandeira</th>
+          <th>Estado</th>
+          <th>Sigla</th>
+          <th>População</th>
+        </tr>
+        <tr>
+          <td><img src="bandeiras/SP.png"></td>        
+          <td>São Paulo</td>        
+          <td>SP</td>        
+          <td>44.169.350</td>        
+        </tr>
+        <tr>
+            <td><img src="bandeiras/RJ.png"></td>        
+            <td>Rio de Janeiro</td>        
+          <td>RJ</td>        
+          <td>16.497.395</td>                  
+        </tr>
+        <tr>
+            <td><img src="bandeiras/PR.png"></td>        
+            <td>Paraná</td>        
+          <td>PR</td>        
+          <td>11.112.062</td>                  
+        </tr>
+    </table>
+
+    <h3>2. Tabela com células mescladas na horizontal</h3>
+
+    <table border width="100%">
+        <tr>
+          <th>Estado</th>
+          <th colspan="3">Maiores 3 cidades do estado</th>
+        </tr>
+        <tr>
+          <td>Acre</td>
+          <td>Rio Branco</td>
+          <td>Cruzeiro do Sul</td>
+          <td>Sena Madureira</td>
+        </tr>
+        <tr>
+          <td>Alagoas</td>
+          <td>Maceió</td>
+          <td>Arapiraca</td>
+          <td>Rio Largo</td>
+        </tr>
+        <tr>
+          <td>Amapá</td>
+          <td>Macapá</td>
+          <td>Santana</td>
+          <td>Laranjal do Jari</td>
+        </tr>
+      </table>                    
+
+    <h3>3. Tabela com células mescladas na vertical</h3>
+    
+    <table border width="100%">
+      <tr>
+        <th>Região</th>
+        <th>Estados da Região</th>
+      </tr>
+      <tr>
+          <td rowspan="4">Centro-Oeste</td>
+          <td>Distrito Federal</td>
+      </tr>
+      <tr>
+        <td>Goiás</td>
+      </tr>
+      <tr>
+          <td>Mato Grosso</td>
+      </tr>
+      <tr>
+          <td>Mato Grosso do Sul</td>
+      </tr>
+      <tr>
+          <td rowspan="4">Sudeste</td>
+          <td>Espírito Santo</td>
+      </tr>
+      <tr>
+        <td>Minas Gerais</td>
+      </tr>
+      <tr>
+          <td>Rio de Janeiro</td>
+      </tr>
+      <tr>
+          <td>São Paulo</td>
+      </tr>
+      <tr>
+          <td rowspan="3">Sul</td>
+          <td>Paraná</td>
+      </tr>
+      <tr>
+        <td>Rio Grande do Sul</td>
+      </tr>
+      <tr>
+          <td>Santa Catarina</td>
+      </tr>
+    </table>
+  </body>
+</html>

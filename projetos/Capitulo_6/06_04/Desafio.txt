@@ -1,0 +1,51 @@
+Instruções para o desafio do Capítulo 06: Criando Tabelas
+
+Neste desafio, vamos criar algumas tabelas. 
+
+Veja abaixo as tarefas que precisamos realizar:
+
+1. Tabela simples
+a) Página: tabela.html
+b) Crie uma tabela para exibir os seguintes dados:
+
+Bandeira    Estado          Sigla   População
+SP.png      São Paulo       SP      44.169.350
+RJ.png      Rio de Janeiro  RJ      16.497.395
+PR.png      Paraná          PR      11.112.062
+
+c) Altere a primeira linha da tabela para ser o cabeçalho 
+d) Aplique pelo menos uma das formatações básicas para melhorar a visualização da tabela
+e) Exiba a imagem das bandeiras, e não o nome do arquivo
+
+2. Tabela com células mescladas na horizontal
+a) Página: tabela.html
+b) Crie uma tabela para exibir os seguintes dados:
+
+Estado      Maiores 3 cidades do estado
+Acre        Rio Branco  Cruzeiro do Sul     Sena Madureira
+Alagoas     Maceió      Arapiraca           Rio Largo
+Amapá       Macapá      Santana             Laranjal do Jari
+
+c) Altere a primeira linha da tabela para ser o cabeçalho 
+d) A célula com o texto "Maiores 3 cidades do estado" deve ocupar 3 colunas
+e) Aplique pelo menos uma das formatações básicas para melhorar a visualização da tabela
+
+3. Tabela com células mescladas na vertical
+a) Página: tabela.html
+b) Crie uma tabela para exibir os seguintes dados:
+
+Região          Estados da Região
+Centro-Oeste    Distrito Federal
+                Goiás
+                Mato Grosso
+                Mato Grosso do Sul
+Sudeste         Espírito Santo
+                Minas Gerais
+                Rio de Janeiro
+                São Paulo
+Sul             Paraná
+                Rio Grande do Sul
+                Santa Catarina
+
+c) As células com o nome da região deve ocupar o mesmo número de linhas que o elas tem de estados
+d) Aplique pelo menos uma das formatações básicas para melhorar a visualização da tabela
