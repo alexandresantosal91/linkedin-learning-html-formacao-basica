@@ -17,11 +17,11 @@ Os projetos foram desenvolvidos durante o curso
 
 6 - [Criando tabelas](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_6)
 
-7 - [Controlando estilos]()
+7 - [Controlando estilos](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_7)
 
-8 - [Scripting básico]()
+8 - [Scripting básico](https://github.com/alexandresantosal91/linkedin-learning-html-formacao-basica/tree/main/projetos/Capitulo_8)
 
-9 - Conclusão
+9 - [Conclusão](https://learn.microsoft.com/pt-br/users/jenlooper-2911/collections/jg2gax8pzd6o81)
 
 <body>
     <h3>Fontes de pesquisas:</h3>
