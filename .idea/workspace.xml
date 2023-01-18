@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="" />
+    <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_01/Base/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_01/Base/tabela.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_02/Base/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_02/Base/tabela.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_03/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_03/tabela.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_04/Base/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_04/Base/tabela.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +94,7 @@
       <workItem from="1673965060055" duration="1073000" />
       <workItem from="1673973430196" duration="844000" />
       <workItem from="1673974308452" duration="9644000" />
+      <workItem from="1674051644580" duration="4192000" />
     </task>
     <servers />
   </component>
