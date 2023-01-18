@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8db3d1cf-0bef-42c5-b94b-3c2998aaf1fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/Capitulo_7/07_01/Base/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_01/Base/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_01/Base/tabela.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_02/Base/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_02/Base/tabela.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_03/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_03/tabela.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_6/06_04/Base/tabela.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_6/06_04/Base/tabela.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_7/07_01/Base/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_7/07_01/Base/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_7/07_02/Base/emLinha.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_7/07_02/Base/emLinha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_7/07_03/Base/interno.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_7/07_03/Base/interno.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/Capitulo_7/07_05/Base/pagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Capitulo_7/07_05/Base/pagina.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +54,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/alexandresantos/Library/Mobile Documents/com~apple~CloudDocs/Workspace/1 - linkedin-learning-html-formacao-basica/projetos/Capitulo_7/07_05/Base",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projetos/Capitulo_7/07_05/Base" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/projetos/Capitulo_3/03_01" />
     </key>
@@ -94,7 +98,7 @@
       <workItem from="1673965060055" duration="1073000" />
       <workItem from="1673973430196" duration="844000" />
       <workItem from="1673974308452" duration="9644000" />
-      <workItem from="1674051644580" duration="4192000" />
+      <workItem from="1674051644580" duration="8424000" />
     </task>
     <servers />
   </component>
